@@ -52,9 +52,9 @@ Building mechanisms to make **carbon credits more transparent, liquid, and hedge
 ---
 
 ### 📫 Connect
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
-- 🌐 [Website or Substack](https://your-website-link)  
-- ✉️ stefano@yourdomain.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/stefano-casati-4389027/)  
+- 🌐 [Website or Substack](https://agonlabs.xyz/)  
+- ✉️ stefanocasatisc@gmail.com  
 
 ---
 
