@@ -14,7 +14,7 @@ Building mechanisms to make **carbon credits more transparent, liquid, and hedge
 ---
 
 ### 🧩 Research & Interests
-- Option strategies  
+- Vault strategies  
 - Carbon and commodity-linked derivatives  
 - Regenerative finance (ReFi) architectures  
 - Agentic AI for climate and capital allocation  
